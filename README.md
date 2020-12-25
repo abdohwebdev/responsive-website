@@ -1,1 +1,1 @@
-# responsive-website from youtub video by Brad Traversy
+# responsive-website from youtube video by Brad Traversy
